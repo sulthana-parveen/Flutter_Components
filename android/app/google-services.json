@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596379563804",
+    "project_id": "crud-7c00f",
+    "storage_bucket": "crud-7c00f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596379563804:android:c2cd8af8fbef879e2facd9",
+        "android_client_info": {
+          "package_name": "com.abc.de"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWFkyy32bfOevY87JkG-PMgcqSsDTJzVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
